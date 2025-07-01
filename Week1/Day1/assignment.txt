@@ -2,3 +2,6 @@
 Assignment #1
 What if I ask you the following question — Give me an input string that outputs a SHA-256 hash that starts with 00000 . How will you do it?
 A: You will have to brute force until you find a value that starts with 00000 
+
+Assignment #2
+What if I ask you that the input string should start with 100xdevs ? How would the code change?
